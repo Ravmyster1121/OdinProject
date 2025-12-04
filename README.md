@@ -1,19 +1,25 @@
 # The Odin Project
-The Odin Project provides a free open source coding curriculum that can be taken entirely online. Since its inception, it has helped many students get hired as developers and has assisted countless others in learning enough programming to work on their own personal projects. 
+
+The Odin Project provides a free open source coding curriculum that can be taken entirely online. Since its inception, it has helped many students get hired as developers and has assisted countless others in learning enough programming to work on their own personal projects.
 
 This is where I'm following along with the fundamentals  
 My start date was Wednesday 12th February 2025.
 
 ## My Learning Goal
-My goal is to improve my frontend development skills by completing a course going over the fundamentals all the way up to using the React framework. 
+
+My goal is to improve my frontend development skills by completing a course going over the fundamentals all the way up to using the React framework.
 I then want to take the knowledge and apply it, by revamping the directory website for my personal web server portal.
 
 ---
 
 ## My Progress
+
 ### Foundations Course
+
 This is where it all begins! A hands-on introduction to all of the essential tools you'll need to build real, working websites. You'll learn what web developers actually do – the foundations you'll need for later courses.
+
 #### Introduction
+
 - [x] How this course will work
 - [x] Introduction to web development
 - [x] Motivation and mindset
@@ -21,29 +27,33 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [x] Join the Odin Community
 
 #### Prerequisites
+
 - [x] Computer basics
 - [x] How does the Web work?
 - [x] Installation Overview
 - [x] Installations
-- [x] Text Editors / IDEs 
+- [x] Text Editors / IDEs
 - [x] Command Line Basics
 - [x] Setting up Git
 
 #### Git Basics
+
 - [x] Introduction to Git
 - [x] Git Basics
 
 #### HTML Foundations
-- [ ] Introduction to HTML & CSS
-- [ ] Elements & Tags
-- [ ] HTML Boilerplate
-- [ ] Working with text
-- [ ] Lists
-- [ ] Links and Images
-- [ ] Commit Messages
+
+- [x] Introduction to HTML & CSS
+- [x] Elements & Tags
+- [x] HTML Boilerplate
+- [x] Working with text
+- [x] Lists
+- [x] Links and Images
+- [x] Commit Messages
 - [ ] `Project:` Recipies
 
 #### CSS Foundations
+
 - [ ] Intro to CSS
 - [ ] The Cascade
 - [ ] Inspecting HTML and CSS
@@ -51,6 +61,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [ ] Block and Inline
 
 #### Flexbox
+
 - [ ] Introduction to Flexbox
 - [ ] Growing and Shrinking
 - [ ] Axes
@@ -58,6 +69,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [ ] `Project:` Landing Page
 
 #### Javascript Basics
+
 - [ ] Variables and Operators
 - [ ] Installing `Node.js`
 - [ ] Data Types and Conditionals
@@ -75,4 +87,5 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [ ] `Project:` Calculator
 
 #### Conclusion
+
 - [ ] Choose Your Path Forward
