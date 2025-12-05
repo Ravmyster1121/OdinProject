@@ -70,8 +70,8 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 #### Javascript Basics
 
-- [ ] Variables and Operators
-- [ ] Installing `Node.js`
+- [x] Variables and Operators
+- [x] Installing `Node.js`
 - [ ] Data Types and Conditionals
 - [ ] JavaScript Developer Tools
 - [ ] Function Basics
